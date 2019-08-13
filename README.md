@@ -1,5 +1,3 @@
-# Data-science-Using-Python
-data analysis and machine learning tasks using python
 # Python Data Science Tutorials 
 - This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.
 
